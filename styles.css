@@ -33,7 +33,7 @@ body {
 
 /* Header styles */
 .header {
-  background-color: var(--oxford-blue);
+  background-color: #212F3C;
   color: var(--white-1);
   padding: 20px;
 }
